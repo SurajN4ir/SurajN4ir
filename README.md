@@ -32,10 +32,7 @@ Currently exploring modern AI engineering, local LLMs, RAG systems, and agentic 
 AI-powered desktop organization — automatically classifies and sorts files using intelligent content analysis.
 
 **Nyaya Diary**
-_[one-line description — what does it do?]_
-
-**Jarvis**
-An AI operating system and voice assistant daemon — local LLM inference, speech pipeline, and persistent memory.
+ An AI-assisted legal journal for organizing case notes, tracking legal research, and exploring Indian law through an intelligent, searchable workspace.
 
 <br>
 
