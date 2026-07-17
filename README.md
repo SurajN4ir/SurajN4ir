@@ -10,7 +10,7 @@ Suraj Nair
 
 B.Tech Computer Science student with a focus on Artificial Intelligence and Machine Learning.
 
-I'm interested in building practical AI systems — from intelligent backend architecture to LLM-powered applications and developer tools.
+I'm interested in building practical AI systems from intelligent backend architecture to LLM-powered applications and developer tools.
 
 Currently exploring modern AI engineering, local LLMs, RAG systems, and agentic workflows.
 
