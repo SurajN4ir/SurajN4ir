@@ -78,3 +78,8 @@ Interested in building software that's genuinely useful.
 ### Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0B0E17?style=flat&logo=linkedin&logoColor=5EEAD4)](YOUR_LINKEDIN_URL)
+### Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SurajN4ir/SurajN4ir/output/dist/snake-dark.svg" alt="contribution snake" width="100%">
+</div>
