@@ -43,14 +43,6 @@ An AI-assisted legal workspace for organizing case notes, tracking legal researc
 
 ---
 
-## Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/SurajN4ir/SurajN4ir/output/dist/snake-dark.svg" alt="Contribution Snake"/>
-</div>
-
----
-
 ## Connect
 
 <div align="center">
